@@ -1,23 +1,23 @@
 {
-	"name": "Drive",
-	"description": "Google Drive",
+	"name": "Translate",
+	"description": "Translate",
 	"type": "web",
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
-	"start_url": "https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Dit&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+	"start_url": "https://translate.google.com",
 	"developer": {
-		"name": "ivan",
-		"url": "https://www.google.com/drive/"
+		"name": "Translate",
+		"url": "https://translate.google.com"
 	},
 	"default_locale": "en-US",
 	"display": "browser",
 	"cursor": true,
 	"locales": {
 		"en-US": {
-			"name": "Drive"
+			"name": "Translate"
 		}
 	},
 	"icons": {
-		"128": "https://i.ibb.co/wpdysRj/icon.png"
+		"84": "https://i.ibb.co/7YFnwfC/icon84.png"
 	}
 }
