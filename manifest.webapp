@@ -1,24 +1,23 @@
 {
-	"name": "Google Photos",
-	"description": "Google Album Archive",
+	"name": "Drive",
+	"description": "Google Drive",
 	"type": "web",
-	"fullscreen": true,
 	"ime_default_softkey_bar": true,
 	"version": "1.0",
-	"start_url": "https://get.google.com/albumarchive/100929187304085669987/albums/autobackup",
+	"start_url": "https://accounts.google.com/signin/v2/identifier?service=wise&passive=true&continue=http%3A%2F%2Fdrive.google.com%2F%3Futm_source%3Dit&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&urp=https%3A%2F%2Fwww.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
 	"developer": {
-		"name": "Google",
-		"url": "https://get.google.com/albumarchive/100929187304085669987/albums/autobackup"
+		"name": "ivan",
+		"url": "https://www.google.com/drive/"
 	},
 	"default_locale": "en-US",
-	"display": "News",
+	"display": "browser",
 	"cursor": true,
 	"locales": {
 		"en-US": {
-			"name": "Google Photos"
+			"name": "Drive"
 		}
 	},
 	"icons": {
-		"128": "https://i.ibb.co/sm5cbBK/Webp-net-resizeimage.png"
+		"128": "https://i.ibb.co/wpdysRj/icon.png"
 	}
 }
